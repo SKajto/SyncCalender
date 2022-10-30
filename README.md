@@ -1,4 +1,4 @@
-# SyncCalender
+# SyncOutlook2Kimai
 
 synchronizes [kimai2](https://www.kimai.org) with outlook calender.
 Works only on windows
