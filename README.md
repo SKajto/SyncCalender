@@ -66,4 +66,4 @@ examples:
 
 -h  
 --help   
-    print this message  
+    prints this message  
