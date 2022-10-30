@@ -8,6 +8,12 @@ Works only on windows
 - [Python for windows](https://www.python.org/downloads/windows/)
 - KIMAI2 API Token ([see here](https://www.kimai.org/documentation/rest-api.html) for how to create an API token)
 
+
+if required install required packages with pip
+```bash
+pip install requests pypiwin32
+```
+
 ## Usage
 ```bash
 python syncCalender.py [-c | --config] <config file json> [-b | --begin] <date> [-e | --end] <date> 
