@@ -4,8 +4,8 @@ synchronizes [kimai2](https://www.kimai.org) with outlook calender.
 Works only on windows
 
 ## Requires
-- MS Outlook installed on the host
-- Python
+- Microsoft Outlook 
+- [Python for windows](https://www.python.org/downloads/windows/)
 - KIMAI2 API Token ([see here](https://www.kimai.org/documentation/rest-api.html) for how to create an API token)
 
 ## Usage
