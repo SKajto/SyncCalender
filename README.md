@@ -30,7 +30,7 @@ examples:
     which holds information about kimai server and API credentials  
 
     example config.json:
-    {{
+    {
         "url":"http://kimai2-server.com/api",
         "token":"kzTQ98BG_H8!~e3s",
         "user":"username",
@@ -39,7 +39,7 @@ examples:
         "work activity":1,
         "off id":9,
         "off activity":14
-    }}
+    }
 
     -url        - url of the Kimai API
     -token      - API token generated for the user on the kimai server
