@@ -70,6 +70,6 @@ examples:
         example: 
             2022-10-30  
 
--h  
---help   
-    prints this message  
+    -h  
+    --help   
+        prints this message  
