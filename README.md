@@ -30,10 +30,10 @@ examples:
     synchronize all events from today   
     syncCalender.py -c config.json   
 
--c configuration file
---config file  
-    file path to the configuration file formatted in JSON,  
-    which holds information about kimai server and API credentials  
+    -c configuration file
+    --config file  
+        file path to the configuration file formatted in JSON,  
+        which holds information about kimai server and API credentials  
 
     example config.json:
     {
@@ -56,19 +56,19 @@ examples:
     -off id     - id of the project to which the private meetings will be assigned 
     -off activity - activity id to which the private meetings will be assigned
 
--b date in UTC  
---begin  date in UTC  
-    If specified the events starting with the given date will be synchronized  
-    The date is formatted in UTC.  
-    example: 
-        2022-10-15  
+    -b date in UTC  
+    --begin  date in UTC  
+        If specified the events starting with the given date will be synchronized  
+        The date is formatted in UTC.  
+        example: 
+            2022-10-15  
 
--b date in UTC  
---end date in UTC  
-    If specified the events till the date will be synchronized  
-    The date is formatted in UTC.  
-    example: 
-        2022-10-30  
+    -b date in UTC  
+    --end date in UTC  
+        If specified the events till the date will be synchronized  
+        The date is formatted in UTC.  
+        example: 
+            2022-10-30  
 
 -h  
 --help   
